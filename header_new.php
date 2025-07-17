@@ -11,6 +11,7 @@
     <link href="css/theme.css" rel="stylesheet" type="text/css">
     <link href="css/custom.css" rel="stylesheet" type="text/css">
     <link href="css/colors/purple.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7CRaleway:400,100,200,300%7CHind:400,300" rel="stylesheet" type="text/css">
 </head>
 <body data-fade-in="true">
@@ -107,7 +108,7 @@
                             <li><a href="#">Preguntas Frecuentes</a></li>
                             <li><a href="#">Manuales y Guías</a></li>
                             <li><a href="#">SmarTips</a></li>
-                            <li><a href="#">Mant. Preventivo</a></li>
+                            <li><a href="mantenimiento_preventivo.php">Mant. Preventivo</a></li>
                         </ul>
                     </li>
 
